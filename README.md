@@ -1,19 +1,14 @@
-# mastermind
-C++ Implementation of the popular code breaking game MasterMind!
+#mastermind++
 
-	Files:
-		- mastermind.hpp - mastermind header file
-		- mastermind.cpp - mastermind implementation
-		- play.cpp - mastermind main
-		- README.txt
-		- LICENCE.txt
+A lightweight C++ implementation of the code breaking game!
 
+##Usage
 
-	Instructions to Run:
-		
-		1. On the command line navigate to masterMind directory (cd masterMind)
-		2. Compile source files (g++ *.cpp -o masterMindGame)
-		3. Run (./masterMindGame)
-		4. Play!
+1. Clone and enter directory: ```https://github.com/yazanobeidi/mastermind/ && cd mastermind``
+2. Compile source files: ``g++ *.cpp -o masterMindGame``
+3. Run: ``./masterMindGame``
+4. Play! Instructions are in-game.
 
-Copyright 2014, 2015 Yazan Obeidi
+##License
+
+Copyright 2014, 2015, 2016 Yazan Obeidi
