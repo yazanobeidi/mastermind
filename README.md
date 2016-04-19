@@ -11,4 +11,4 @@ A lightweight C++ implementation of the code breaking game!
 
 ##License
 
-Copyright 2014, 2015, 2016 Yazan Obeidi
+Copyright 2014, 2015, 2016 Yazan Obeidi (GNU GPLv3)
